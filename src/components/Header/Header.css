@@ -1,0 +1,224 @@
+.container-navbar1{
+  display: none;
+  position:fixed;
+  justify-content: space-around;
+  z-index: 998;
+  width: 100%;
+  padding-left: 1rem;
+  background-color: white !important;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);  
+ 
+}
+.container-navbar2{
+  display: flex;
+
+  justify-content: center;
+}
+.navbar-icon-contact-container{
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 0.5rem;
+  margin-right: 2rem;
+}
+.navbar-icon , .navbar-icon-contact{
+  display: none;
+ color: #21289d;
+}
+.navbar-icon-contact{
+  width: 22px;
+}
+.navbar-icon-contact:hover{
+  color:#6495ED
+
+
+}
+
+.navbar-icon-contact-container a {
+  width: max-content;
+  height: min-content;
+  justify-content: center;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+.navbar-icon:hover{
+  color: #1672bd;
+}
+.nav-bar {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    padding-left: 80px;
+    background-color: #010001 !important;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+      }
+  
+  .container-logo-navbar{
+  display: flex;
+  justify-content: center;
+  column-gap: 10%;
+  
+ }
+
+
+  .container-logo-navbar .logo{
+    width: 15rem;
+  }
+  .container-logo-navbar .icoclose{
+    display: none;
+  }
+
+  h2{
+    color: #21289d;
+  }
+  h2 span {
+    color: white;
+  }
+
+/* Ajoutez ces styles dans votre fichier CSS ou dans la balise style de votre composant React */
+.nav-bar ul {
+    list-style-type: none; /* Supprime les puces */
+  }
+
+  .nav-bar ul  a {
+    text-decoration: none;
+    width: 100%;
+    height: 40px;
+
+  }
+  
+  /* Styles supplémentaires pour les liens (facultatif) */
+  .nav-bar li {
+    display: inline-block; /* Aligne les éléments horizontalement */
+    margin-right: 50px; /* Ajoute une marge entre les éléments (ajustez selon vos besoins) */
+    font-weight: 650;
+    transition : 0.7s ease ;
+
+}
+.icon{
+  width: 28px;
+  height: 28px;
+  margin-top: -7px;
+  display: none;
+}
+
+.nav-bar p{
+    font-size: 25px;
+    font-weight: 650;
+
+}
+
+.nav-bar p , li {
+  color: white;
+  display: flex;
+  align-items: center;
+  column-gap: 5px;
+}
+
+li:hover {
+  color: #1672bd;
+
+}
+
+
+@media (max-width : 1025px){
+  .container-navbar1{
+    display: flex;
+    justify-content:space-between;
+  
+
+
+  }
+  .container-navbar2{
+    
+    display: flex;
+    justify-content: flex-start;
+    box-shadow: 0px 4px 10px rgba(0.1, 0.1, 0.1, 0.1);   
+
+   
+  }
+  .nav-bar {
+    z-index: 999;
+    width: 20.5rem;
+    height:60% ;
+    position: fixed;
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    row-gap: 5px;
+    align-items:flex-start;
+    border-radius: 5px;
+    padding-left: 0px;
+    background-color: white !important;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+      }
+
+    .show{
+      display: flex;
+    }
+      .container-logo-navbar .icoclose{
+        display: flex;
+        margin-left: 10px;
+      }
+    
+      .container-logo-navbar h2{
+        display: none;
+      }
+    .logo {
+      margin-left: 30px;
+      border-bottom: 1.5px solid #6495ED;
+
+    }
+      /* Ajoutez ces styles dans votre fichier CSS ou dans la balise style de votre composant React */
+      .nav-bar ul {
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        row-gap: 25px;
+        width: 80%;
+      }
+
+    /* Styles supplémentaires pour les liens (facultatif) */
+    .nav-bar li {
+      display:flex; /* Aligne les éléments horizontalement */
+      align-items: center;
+      margin-right: 0px; /* Ajoute une marge entre les éléments (ajustez selon vos besoins) */
+     color: #21289d;
+  
+      }
+
+      .icon{
+      
+        display: flex;
+      }
+
+      .navbar-icon{
+       cursor: pointer;
+       display: flex;
+       }
+      
+
+  .button{
+    display: none;
+  }
+
+  .nav-bar ul  a:hover {
+  background-color: #F6F6F6;
+ padding-left: 10px;
+  display: flex;
+  transition : 0.7s ease ;
+  border-radius: 10px;
+  margin-left: 2%;
+
+  }
+  
+ 
+
+}

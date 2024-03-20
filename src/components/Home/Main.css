@@ -1,0 +1,312 @@
+.video-background{
+    position: relative ;
+    width: 100%;
+    min-height:750px;   
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ajustez l'objet en fonction de vos besoins */
+
+  }
+
+  .presentation1{
+    display:flex ;
+    align-items: center;
+    position: relative;
+    flex-wrap: wrap;
+
+  }
+  .containersskillsmain{
+    min-height: 80vh;
+    background-color: #010000;
+
+  }
+  .containerservices{
+    /*background-color: #162533;*/
+    width: 100%;
+    min-height: 70vh;
+    position: relative;
+    background-color: #010000;
+
+}
+
+  .containerprojects{
+    position: relative;
+    width: 100%;
+    max-height: max-content;
+    /*background-color: red;*/
+    background-color: #010000;
+
+
+  }
+
+  .presentation1 .photoprofil{ 
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;  
+    padding-right: 30px; 
+    border-radius: 50%;
+    transition : all 0.4s ease ;
+
+  
+  }
+
+  .presentation1 img:hover{
+    transform: translateY(-0.5rem);
+  }
+
+  .hello{
+    position: relative;
+    width: 550px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    padding-left: 30px;
+
+  }
+
+
+  .hello p{
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: -10px;
+  }
+
+  .engenniringstudent{
+      color: #21289d;
+
+  }
+
+  .dynamic-txt span{
+    position: relative;
+  }
+
+  .dynamic-txt span::after{
+    content: "";
+    position: absolute;
+    left :0 ;
+    height: 100%;
+    width: 100%;
+    background-color: #010000 ;
+    border-left: 2px solid #21289d;
+    animation: typing 3s steps(15) infinite;
+  }
+
+  @keyframes typing {
+    100%{
+      left: 100%;
+      margin: 0 -35px 0 35px ;
+    }
+  }
+
+
+  .hello h3 , h4 {
+    font-size: 13px;
+    color: white ;
+  }
+
+  .hello h3{
+    margin-top: 80px;
+  }
+
+  .hello h4{
+    margin-top: -20px;
+
+  }
+
+  .hello .contacticonmaincontainer{
+    margin-top: 30px;
+    height: 60px;
+    width: min-content;
+    display: flex ;
+    justify-content:space-between ;
+    column-gap: 10px; 
+ }
+
+  
+  .iconcontactmain{
+  width: 55px;
+  height: 55px;
+}
+
+.fb{
+  margin-top: 10px;
+  width: 38px;
+  height: 38px;
+}
+.linkedin{
+  margin-top: 3px;
+
+  width: 50px;
+  height: 50px;
+}
+
+.github{
+  margin-top: 8px;
+  width: 45px;
+  height: 45px; 
+}
+
+
+
+.containercontact{
+  width: 100%;
+  min-height: 80vh;
+  position: relative;
+  background-color: #010000;
+
+}
+
+.containerFooter{
+  position: relative;
+  width: 100%;
+  height: 80px;
+  background-color: #1a1a29;
+  box-shadow: 0px 4px 10px rgba(0.1, 0, 0, 0);
+
+
+}
+
+
+  @media (max-width : 1100px){
+    .dynamic-txt span::after{
+      background-color: transparent ;
+      border-left: 0px;
+      animation: none;
+    }
+
+    .presentation1{
+      display:flex ;
+      align-items: center;
+      position: relative;
+      flex-wrap: wrap;
+      flex-direction: column-reverse;
+  
+    }
+  
+    .hello{
+      padding-bottom: 30px;
+      width: 400px ;
+      
+    }
+
+
+    img{
+      width: 25rem;
+
+    }
+
+ 
+
+
+
+  
+  }
+
+  @media (max-width : 885px){
+
+        
+  .hello{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+   
+  }
+
+    .hello p{
+      /*font-size: 40px;*/
+      font-size: 1.4rem;
+      padding-bottom: 0.5rem;
+      width: 100%;
+    }
+    .engenniringstudent{
+      font-size: 1.4rem;
+    }
+    
+    .h1main{
+      font-size: 1rem;
+
+    }
+  
+ 
+  
+  }
+
+  @media (max-width : 700px){
+    img{ 
+         width: 20rem;
+    }
+  
+    .hello{
+      display: flex;
+      margin-top: 1rem;
+      height: auto;
+
+    }
+
+  
+
+
+  }
+
+  .button {
+    display: inline-block;
+    padding: 12px 28px;
+    margin: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    background-image: linear-gradient(to bottom right, #1672bd, #21289d);
+    border: none;
+    border-radius: 40px;
+    box-shadow: 0px 4px 0px #2d35cb;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 6px 0px #2d35cb;
+  }
+  
+  .button:active {
+    transform: translateY(0px);
+    box-shadow: none;
+    background-image: linear-gradient(to bottom right, #21289d, #1672bd);
+  }
+  
+  .button:before,
+  .button:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+  }
+  
+  .button:before {
+    top: -3px;
+    left: -3px;
+    border-radius: 40px;
+    border-top: 3px solid #fff;
+    border-left: 3px solid #fff;
+  }
+  
+  .button:after {
+    bottom: -3px;
+    right: -3px;
+    border-radius: 40px;
+    border-bottom: 3px solid #fff;
+    border-right: 3px solid #fff;
+  }
+  
