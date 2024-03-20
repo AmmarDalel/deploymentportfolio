@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
     <Routes>
-      <Route path="/" element={<Main/>} />
+      <Route path="/deploymentportfolio" element={<Main/>} />
       <Route path="/cv" element={<Cv/>} />
 
     </Routes>

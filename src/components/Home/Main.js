@@ -47,7 +47,7 @@ function Main() {
               I completed two years of integrated preparatory studies at the Higher Institute of Computer Science and Mathematics of Monastir (ISIMM). 
               I am dedicated to acquiring new skills and solving complex challenges in the field.
             </h4>
-              <button class="button" onClick={handleClickCV}>Download cv</button>
+              <button className="button" onClick={handleClickCV}>Download cv</button>
               <div className='contacticonmaincontainer'>
                 <a href="https://www.linkedin.com/in/dalel-ammar-b0544a234/" ><img className='iconcontactmain linkedin' alt='linkedin' src={linkedinicon} /></a>
                 <a href="https://www.instagram.com/dalel.ammar/"> <img className='iconcontactmain insta'  alt='instagram' src={instagramicon} /> </a>
