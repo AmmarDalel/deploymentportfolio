@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploymentportfolio/static/css/main.afa23949.css",
-    "main.js": "/deploymentportfolio/static/js/main.8cb8a2aa.js",
+    "main.js": "/deploymentportfolio/static/js/main.899dc20c.js",
     "static/js/453.e4552bf9.chunk.js": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js",
     "static/media/Instagram logo.gif": "/deploymentportfolio/static/media/Instagram logo.95c4b812b7970ad42f90.gif",
     "static/media/login.png": "/deploymentportfolio/static/media/login.ddaf39467b32b677fe2f.png",
@@ -25,11 +25,11 @@
     "static/media/gestion d'une cuisine.png": "/deploymentportfolio/static/media/gestion d'une cuisine.7bd9e614e07558dd5854.png",
     "index.html": "/deploymentportfolio/index.html",
     "main.afa23949.css.map": "/deploymentportfolio/static/css/main.afa23949.css.map",
-    "main.8cb8a2aa.js.map": "/deploymentportfolio/static/js/main.8cb8a2aa.js.map",
+    "main.899dc20c.js.map": "/deploymentportfolio/static/js/main.899dc20c.js.map",
     "453.e4552bf9.chunk.js.map": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afa23949.css",
-    "static/js/main.8cb8a2aa.js"
+    "static/js/main.899dc20c.js"
   ]
 }
