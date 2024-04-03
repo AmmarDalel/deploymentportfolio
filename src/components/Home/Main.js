@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-import vd2 from '../../asserts/images/vd3.mp4';
+import vd2 from '../../asserts/vd3.mp4';
 
 import './Main.css';
 import Header from '../Header/Header';
@@ -31,9 +31,8 @@ function Main() {
       <Header  />  
 
      <div className="video-background" id='home'>
-            <video autoPlay loop muted>
-              <source src={ process.env.PUBLIC_URL + vd2 } type="video/mp4" />
-            </video>
+     <video src={vd2} autoPlay loop muted />
+
        
         <div className='presentation1'>
 
