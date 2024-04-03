@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploymentportfolio/static/css/main.afa23949.css",
-    "main.js": "/deploymentportfolio/static/js/main.0c7fd1bf.js",
+    "main.js": "/deploymentportfolio/static/js/main.caf2cd9d.js",
     "static/js/453.e4552bf9.chunk.js": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js",
     "static/media/Instagram logo.gif": "/deploymentportfolio/static/media/Instagram logo.95c4b812b7970ad42f90.gif",
     "static/media/login.png": "/deploymentportfolio/static/media/login.ddaf39467b32b677fe2f.png",
@@ -15,7 +15,7 @@
     "static/media/LinkedIn.gif": "/deploymentportfolio/static/media/LinkedIn.1e929e13a1c59ee81825.gif",
     "static/media/Github.gif": "/deploymentportfolio/static/media/Github.c529be4bfee632c5e824.gif",
     "static/media/dalel.png": "/deploymentportfolio/static/media/dalel.b619bf1a18d03c8ba4f1.png",
-    "static/media/cv.pdf": "/deploymentportfolio/static/media/cv.5228ca251533ea73a757.pdf",
+    "static/media/cv.pdf": "/deploymentportfolio/static/media/cv.0dd1486d8b89353b6ce1.pdf",
     "static/media/tasks.png": "/deploymentportfolio/static/media/tasks.bb6da5e34a8d60e2b976.png",
     "static/media/ATM machine.png": "/deploymentportfolio/static/media/ATM machine.40840d75e5379cde5eb4.png",
     "static/media/projects.png": "/deploymentportfolio/static/media/projects.7794c8f35c9700d6806f.png",
@@ -25,11 +25,11 @@
     "static/media/gestion d'une cuisine.png": "/deploymentportfolio/static/media/gestion d'une cuisine.7bd9e614e07558dd5854.png",
     "index.html": "/deploymentportfolio/index.html",
     "main.afa23949.css.map": "/deploymentportfolio/static/css/main.afa23949.css.map",
-    "main.0c7fd1bf.js.map": "/deploymentportfolio/static/js/main.0c7fd1bf.js.map",
+    "main.caf2cd9d.js.map": "/deploymentportfolio/static/js/main.caf2cd9d.js.map",
     "453.e4552bf9.chunk.js.map": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afa23949.css",
-    "static/js/main.0c7fd1bf.js"
+    "static/js/main.caf2cd9d.js"
   ]
 }
