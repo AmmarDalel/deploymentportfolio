@@ -21,13 +21,13 @@ function Projects() {
         <div className="content">
             <div className="card">
                     <div className="container-img">
-                        <img alt="cruds app"  src={crudsapp} id="slide-1"/>
+                        <img alt="crud app"  src={crudsapp} id="slide-1"/>
                     </div>
                 
                     <div className="info">
-                        <p>CRUDS Application : HTML , CSS , JS</p>
+                        <p>CRUD Application : HTML , CSS , JS</p>
                         <strong className="project-title">
-                            <span >CRUDS Application</span>
+                            <span >CRUD Application</span>
                             <a href="https://github.com/AmmarDalel/CRUDS_JS" className="more-details">more details</a>
                         </strong>
                     </div>
