@@ -13,12 +13,25 @@ import ATM from '../../../asserts/images/ATM machine.png'
 import gestioncuisine from "../../../asserts/images/gestion d'une cuisine.png";
 import gestionecole from "../../../asserts/images/gestion d'une école.png";
 import gestionrestaurant from "../../../asserts/images/gestion restaurant.png";
-
+import crudsapp from "../../../asserts/images/cruds app.png" ;
 function Projects() {
   return (
 <section className="projects skills-container" id="projects">
         <h1>Projects</h1>
         <div className="content">
+            <div className="card">
+                    <div className="container-img">
+                        <img alt="cruds app"  src={crudsapp} id="slide-1"/>
+                    </div>
+                
+                    <div className="info">
+                        <p>CRUDS Application : HTML , CSS , JS</p>
+                        <strong className="project-title">
+                            <span >CRUDS Application</span>
+                            <a href="https://github.com/AmmarDalel/CRUDS_JS" className="more-details">more details</a>
+                        </strong>
+                    </div>
+                </div>
 
             <div className="card">
                 <div className="container-img">
@@ -107,6 +120,8 @@ function Projects() {
                     </strong>
                 </div>
             </div>
+
+            
 
         
 
