@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploymentportfolio/static/css/main.afa23949.css",
-    "main.js": "/deploymentportfolio/static/js/main.edbdff49.js",
+    "main.js": "/deploymentportfolio/static/js/main.3123b704.js",
     "static/js/453.e4552bf9.chunk.js": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js",
     "static/media/Instagram logo.gif": "/deploymentportfolio/static/media/Instagram logo.95c4b812b7970ad42f90.gif",
     "static/media/login.png": "/deploymentportfolio/static/media/login.ddaf39467b32b677fe2f.png",
@@ -21,16 +21,17 @@
     "static/media/projects.png": "/deploymentportfolio/static/media/projects.7794c8f35c9700d6806f.png",
     "static/media/done_on_time.png": "/deploymentportfolio/static/media/done_on_time.5fb51fb076f0cfbd68e3.png",
     "static/media/cruds app.png": "/deploymentportfolio/static/media/cruds app.49c75f4706048d86ffb9.png",
+    "static/media/notes-app.png": "/deploymentportfolio/static/media/notes-app.c96b03bd809dae2e68a0.png",
     "static/media/gestion d'une école.png": "/deploymentportfolio/static/media/gestion d'une école.79ca5b5ded4a89a4d032.png",
     "static/media/gestion restaurant.png": "/deploymentportfolio/static/media/gestion restaurant.08d49718623b7bae6204.png",
     "static/media/gestion d'une cuisine.png": "/deploymentportfolio/static/media/gestion d'une cuisine.7bd9e614e07558dd5854.png",
     "index.html": "/deploymentportfolio/index.html",
     "main.afa23949.css.map": "/deploymentportfolio/static/css/main.afa23949.css.map",
-    "main.edbdff49.js.map": "/deploymentportfolio/static/js/main.edbdff49.js.map",
+    "main.3123b704.js.map": "/deploymentportfolio/static/js/main.3123b704.js.map",
     "453.e4552bf9.chunk.js.map": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afa23949.css",
-    "static/js/main.edbdff49.js"
+    "static/js/main.3123b704.js"
   ]
 }
