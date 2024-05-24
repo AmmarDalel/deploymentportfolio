@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploymentportfolio/static/css/main.afa23949.css",
-    "main.js": "/deploymentportfolio/static/js/main.3123b704.js",
+    "main.js": "/deploymentportfolio/static/js/main.476c8f48.js",
     "static/js/453.e4552bf9.chunk.js": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js",
     "static/media/Instagram logo.gif": "/deploymentportfolio/static/media/Instagram logo.95c4b812b7970ad42f90.gif",
     "static/media/login.png": "/deploymentportfolio/static/media/login.ddaf39467b32b677fe2f.png",
@@ -14,7 +14,10 @@
     "static/media/isimmproject2.png": "/deploymentportfolio/static/media/isimmproject2.f0d017c503114625468f.png",
     "static/media/LinkedIn.gif": "/deploymentportfolio/static/media/LinkedIn.1e929e13a1c59ee81825.gif",
     "static/media/Github.gif": "/deploymentportfolio/static/media/Github.c529be4bfee632c5e824.gif",
+    "static/media/notes-app21.png": "/deploymentportfolio/static/media/notes-app21.defbb918a74fdb4b854f.png",
+    "static/media/notes-app22.png": "/deploymentportfolio/static/media/notes-app22.cb887abc7bee4be358c9.png",
     "static/media/dalel.png": "/deploymentportfolio/static/media/dalel.b619bf1a18d03c8ba4f1.png",
+    "static/media/notes-app1.png": "/deploymentportfolio/static/media/notes-app1.db51339fe3b626e1abcd.png",
     "static/media/cv.pdf": "/deploymentportfolio/static/media/cv.0dd1486d8b89353b6ce1.pdf",
     "static/media/tasks.png": "/deploymentportfolio/static/media/tasks.bb6da5e34a8d60e2b976.png",
     "static/media/ATM machine.png": "/deploymentportfolio/static/media/ATM machine.40840d75e5379cde5eb4.png",
@@ -22,16 +25,17 @@
     "static/media/done_on_time.png": "/deploymentportfolio/static/media/done_on_time.5fb51fb076f0cfbd68e3.png",
     "static/media/cruds app.png": "/deploymentportfolio/static/media/cruds app.49c75f4706048d86ffb9.png",
     "static/media/notes-app.png": "/deploymentportfolio/static/media/notes-app.c96b03bd809dae2e68a0.png",
+    "static/media/notes-app3.png": "/deploymentportfolio/static/media/notes-app3.03691415e6ccb48b4d8f.png",
     "static/media/gestion d'une école.png": "/deploymentportfolio/static/media/gestion d'une école.79ca5b5ded4a89a4d032.png",
     "static/media/gestion restaurant.png": "/deploymentportfolio/static/media/gestion restaurant.08d49718623b7bae6204.png",
     "static/media/gestion d'une cuisine.png": "/deploymentportfolio/static/media/gestion d'une cuisine.7bd9e614e07558dd5854.png",
     "index.html": "/deploymentportfolio/index.html",
     "main.afa23949.css.map": "/deploymentportfolio/static/css/main.afa23949.css.map",
-    "main.3123b704.js.map": "/deploymentportfolio/static/js/main.3123b704.js.map",
+    "main.476c8f48.js.map": "/deploymentportfolio/static/js/main.476c8f48.js.map",
     "453.e4552bf9.chunk.js.map": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afa23949.css",
-    "static/js/main.3123b704.js"
+    "static/js/main.476c8f48.js"
   ]
 }
