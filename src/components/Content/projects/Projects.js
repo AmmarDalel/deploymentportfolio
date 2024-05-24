@@ -15,6 +15,14 @@ import gestionecole from "../../../asserts/images/gestion d'une école.png";
 import gestionrestaurant from "../../../asserts/images/gestion restaurant.png";
 import crudsapp from "../../../asserts/images/cruds app.png" ;
 import notesapp from "../../../asserts/images/notes-app.png" ;
+import notesapp1 from "../../../asserts/images/notes-app1.png" ;
+import notesapp21 from "../../../asserts/images/notes-app21.png" ;
+import notesapp22 from "../../../asserts/images/notes-app22.png" ;
+import notesapp3 from "../../../asserts/images/notes-app3.png" ;
+
+
+
+
 
 function Projects() {
   return (
@@ -23,14 +31,18 @@ function Projects() {
         <div className="content">
         <div className="card">
                     <div className="container-img">
-                        <img alt="notes app"  src={notesapp} id="slide-1"/>
+                        <img alt="notes app"  src={notesapp1} id="slide-1"/>
+                        <img alt="notes app"  src={notesapp21} id="slide-2"/>
+                        <img alt="notes app"  src={notesapp22} id="slide-3"/>
+                        <img alt="notes app"  src={notesapp3} id="slide-4"/>
+
                     </div>
                 
                     <div className="info">
                         <p>Notes Application : HTML , CSS , JS</p>
                         <strong className="project-title">
                             <span >Notes Application</span>
-                            <a href="https://github.com/AmmarDalel/Notes_App" className="more-details">more details</a>
+                            <a href="https://ammardalel.github.io/Notes_App/" className="more-details">more details</a>
                         </strong>
                     </div>
              </div>
@@ -43,7 +55,7 @@ function Projects() {
                         <p>CRUD Application : HTML , CSS , JS</p>
                         <strong className="project-title">
                             <span >CRUD Application</span>
-                            <a href="https://github.com/AmmarDalel/CRUDS_JS" className="more-details">more details</a>
+                            <a href="https://ammardalel.github.io/CRUDS_JS//" className="more-details">more details</a>
                         </strong>
                     </div>
              </div>
