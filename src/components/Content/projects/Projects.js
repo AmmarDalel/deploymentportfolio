@@ -19,7 +19,7 @@ import notesapp1 from "../../../asserts/images/notes-app1.png" ;
 import notesapp21 from "../../../asserts/images/notes-app21.png" ;
 import notesapp22 from "../../../asserts/images/notes-app22.png" ;
 import notesapp3 from "../../../asserts/images/notes-app3.png" ;
-
+import flivan from "../../../asserts/images/flivan.png";
 
 
 
@@ -29,6 +29,20 @@ function Projects() {
 <section className="projects skills-container" id="projects">
         <h1>Projects</h1>
         <div className="content">
+            <div className="card">
+                    <div className="container-img">
+                        <img alt="login"  src={flivan} id="slide-1"/>
+                       
+                    </div>
+                
+                    <div className="info">
+                        <p>Home page with React js</p>
+                        <strong className="project-title">
+                            <span >Flivan web site</span>
+                            <a href="https://ammardalel.github.io/flivain-React-js/" className="more-details">more details</a>   
+                        </strong>
+                    </div>
+                </div>
         <div className="card">
                     <div className="container-img">
                         <img alt="notes app"  src={notesapp1} id="slide-1"/>
