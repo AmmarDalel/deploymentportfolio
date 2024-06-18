@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploymentportfolio/static/css/main.afa23949.css",
-    "main.js": "/deploymentportfolio/static/js/main.476c8f48.js",
+    "main.js": "/deploymentportfolio/static/js/main.2eff5f46.js",
     "static/js/453.e4552bf9.chunk.js": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js",
     "static/media/Instagram logo.gif": "/deploymentportfolio/static/media/Instagram logo.95c4b812b7970ad42f90.gif",
     "static/media/login.png": "/deploymentportfolio/static/media/login.ddaf39467b32b677fe2f.png",
@@ -12,6 +12,7 @@
     "static/media/isimmproject3.png": "/deploymentportfolio/static/media/isimmproject3.7518e0f10f05daef2122.png",
     "static/media/isimmproject4.png": "/deploymentportfolio/static/media/isimmproject4.8aea4c35ed3f8ff4261b.png",
     "static/media/isimmproject2.png": "/deploymentportfolio/static/media/isimmproject2.f0d017c503114625468f.png",
+    "static/media/flivan.png": "/deploymentportfolio/static/media/flivan.d261363a5e12de38ad78.png",
     "static/media/LinkedIn.gif": "/deploymentportfolio/static/media/LinkedIn.1e929e13a1c59ee81825.gif",
     "static/media/Github.gif": "/deploymentportfolio/static/media/Github.c529be4bfee632c5e824.gif",
     "static/media/notes-app21.png": "/deploymentportfolio/static/media/notes-app21.defbb918a74fdb4b854f.png",
@@ -31,11 +32,11 @@
     "static/media/gestion d'une cuisine.png": "/deploymentportfolio/static/media/gestion d'une cuisine.7bd9e614e07558dd5854.png",
     "index.html": "/deploymentportfolio/index.html",
     "main.afa23949.css.map": "/deploymentportfolio/static/css/main.afa23949.css.map",
-    "main.476c8f48.js.map": "/deploymentportfolio/static/js/main.476c8f48.js.map",
+    "main.2eff5f46.js.map": "/deploymentportfolio/static/js/main.2eff5f46.js.map",
     "453.e4552bf9.chunk.js.map": "/deploymentportfolio/static/js/453.e4552bf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afa23949.css",
-    "static/js/main.476c8f48.js"
+    "static/js/main.2eff5f46.js"
   ]
 }
