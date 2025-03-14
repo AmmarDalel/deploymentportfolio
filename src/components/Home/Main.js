@@ -42,7 +42,7 @@ function Main() {
             <p className='position dynamic-txt'>I am <span className='engenniringstudent'>Software Engineering Student</span></p> 
 
             <h4>
-              I am a first-year software engineering student with a strong passion for web development. Before starting my software engineering studies,
+              I am a second-year software engineering student with a strong passion for web development. Before starting my software engineering studies,
               I completed two years of integrated preparatory studies at the Higher Institute of Computer Science and Mathematics of Monastir (ISIMM). 
               I am dedicated to acquiring new skills and solving complex challenges in the field.
             </h4>

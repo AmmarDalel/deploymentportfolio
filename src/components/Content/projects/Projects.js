@@ -167,7 +167,6 @@ function Projects() {
                         <strong className="project-title">
                             <span >Flivan web site</span>
                             <a href="https://ammardalel.github.io/flivain-React-js/" className="more-details">more details</a>   
-                            <p onClick={()=>{handleClick(flivan ,'flivan' )}}>share</p>
                         </strong>
                         
                     </div>
