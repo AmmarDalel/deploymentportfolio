@@ -8,6 +8,7 @@ export const SKILLS=[
             {skill: "HTML5" , percentage:"70%"} ,
             {skill: "CSS3" , percentage:"70%"} ,
             {skill: "JavaScript" , percentage:"60%"} ,
+            {skill: "TypeScript" , percentage:"15%"} ,
             {skill: "React.js" , percentage:"60%"} ,
 
         ] ,
@@ -18,8 +19,8 @@ export const SKILLS=[
         title:'Backend' ,
         icon:faCode,
         skills:[
-            {skill: "java" , percentage:"70%"} ,
-            {skill: "SpringBoot" , percentage:"50%"} ,
+            {skill: "node js" , percentage:"50%"} ,
+            {skill: "express js" , percentage:"50%"} ,
          
 
         ] ,
@@ -32,6 +33,7 @@ export const SKILLS=[
         skills:[
             
             {skill: "Git & Github" , percentage:"50%"} ,
+            {skill: "Docker" , percentage:"30%"} ,
             {skill: "Visual Studio Code" , percentage:"60%"} ,
          
         ] ,
